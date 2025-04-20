@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @0youngblood
-- 👀 I’m interested in data science.
-- 🌱 I’m currently studying information science.
+- 👀 I’m interested in economics.
+- 🌱 I studied data science.
 - 📫 Contact me at zcy3@cornell.edu
